@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dbdesign
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: belum.reddy
+Implementation-Vendor-Id: com.dbdesign.home.controller
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dbdesign
+Created-By: Maven Integration for Eclipse
+
